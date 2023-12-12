@@ -140,3 +140,4 @@ C:\Hospital\Hospital\HospitalApplication\bin\Debug\net8.0\Domain.dll
 C:\Hospital\Hospital\HospitalApplication\bin\Debug\net8.0\Infrastructure.dll
 C:\Hospital\Hospital\HospitalApplication\bin\Debug\net8.0\Infrastructure.pdb
 C:\Hospital\Hospital\HospitalApplication\bin\Debug\net8.0\Domain.pdb
+C:\Hospital\Hospital\HospitalApplication\obj\Debug\net8.0\HospitalAPI.sourcelink.json

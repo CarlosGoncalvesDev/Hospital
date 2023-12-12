@@ -15,3 +15,4 @@ C:\Hospital\Hospital\Infraestrutura\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Hospital\Hospital\Infraestrutura\obj\Debug\net8.0\Infrastructure.pdb
 C:\Hospital\Hospital\Infraestrutura\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 C:\Hospital\Hospital\Infraestrutura\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Hospital\Hospital\Infraestrutura\obj\Debug\net8.0\Infrastructure.sourcelink.json
