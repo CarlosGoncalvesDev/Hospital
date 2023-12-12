@@ -5,9 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalAPI", "HospitalApplication\HospitalAPI.csproj", "{04EDB7EE-45D5-4899-8BB3-CA33FF0BF1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infraestrutura\Infrastructure.csproj", "{D654F854-A626-4DEC-9679-D08FDF5DBC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infraestrutura\Infrastructure.csproj", "{D654F854-A626-4DEC-9679-D08FDF5DBC91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{8B932134-1B46-4949-8CF2-951FCF83A68A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{8B932134-1B46-4949-8CF2-951FCF83A68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E9B63D8F-18B3-4304-A877-EBDB0582626A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8B932134-1B46-4949-8CF2-951FCF83A68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B932134-1B46-4949-8CF2-951FCF83A68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B932134-1B46-4949-8CF2-951FCF83A68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B63D8F-18B3-4304-A877-EBDB0582626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B63D8F-18B3-4304-A877-EBDB0582626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B63D8F-18B3-4304-A877-EBDB0582626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B63D8F-18B3-4304-A877-EBDB0582626A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
