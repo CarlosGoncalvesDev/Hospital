@@ -12,7 +12,7 @@ HospitalAPI é uma aplicação ASP.NET Core que fornece uma API RESTful para ger
 
 ## Como usar
 
-Para usar a API, primeiro autentique-se usando o endpoint de login com o nome de usuário e a senha fornecidos. Isso retornará um token JWT que você deve incluir no cabeçalho `Authorization` de todas as solicitações subsequentes.
+Para usar a API, primeiro autentique-se usando o endpoint de login com o nome de usuário e a senha fornecidos. Isso retornará um token JWT que você deve incluir no cabeçalho `Authorization` de todas as solicitações subsequentes ou usar o Postman.
 
 Aqui estão alguns exemplos de como usar a API:
 
