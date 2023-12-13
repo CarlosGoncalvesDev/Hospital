@@ -8,7 +8,7 @@ HospitalAPI é uma aplicação ASP.NET Core que fornece uma API RESTful para ger
 - **Autenticação JWT**: A API usa a autenticação JWT para proteger os endpoints. O nome de usuário e a senha para acessar a API são `admin` e `1234`, respectivamente.
 - **Entity Framework**: A API usa o Entity Framework como um ORM para abstrair o acesso ao banco de dados.
 - **Dapper**: A API também usa o Dapper para realizar operações de banco de dados mais complexas e otimizadas.
-- **Testes unitários com xUnit**: O projeto inclui testes unitários escritos com o framework de testes xUnit.
+- **Testes unitários com xUnit**: O projeto inclui testes unitários escritos com o framework de testes xUnit, Porém infelizmente não 100% implementado, pois tive algumas dúvidas, se possivel, me ajudar a entender e evoluir como um profissional.
 
 ## Como usar
 
